@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+issueTrackerURL=""
+
+[[mods]]
+modId="cataclysmomcompat"
+version="${file.jarVersion}"
+displayName="Cataclysm OverhauledMusic Compat"
+authors="Pavithra"
+description='''
+Plays custom boss music for L_Ender's Cataclysm bosses while smoothly muting OverhauledMusic and suppressing other music during the fight.
+'''
+
+[[dependencies.cataclysmomcompat]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.cataclysmomcompat]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.20.2)"
+ordering="NONE"
+side="BOTH"

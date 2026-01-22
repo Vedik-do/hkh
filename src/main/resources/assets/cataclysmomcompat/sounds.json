@@ -1,0 +1,74 @@
+{
+  "music.harbinger.idle": {
+    "sounds": [
+      {
+        "name": "cataclysmomcompat:music/harbinger/idle",
+        "stream": true
+      }
+    ]
+  },
+  "music.harbinger.combat": {
+    "sounds": [
+      {
+        "name": "cataclysmomcompat:music/harbinger/combat",
+        "stream": true
+      }
+    ]
+  },
+  "music.ender_guardian.theme": {
+    "sounds": [
+      {
+        "name": "cataclysmomcompat:music/boss/ender_guardian",
+        "stream": true
+      }
+    ]
+  },
+  "music.ancient_remnant.combat": {
+    "sounds": [
+      {
+        "name": "cataclysmomcompat:music/boss/ancient_remnant",
+        "stream": true
+      }
+    ]
+  },
+  "music.leviathan.combat": {
+    "sounds": [
+      {
+        "name": "cataclysmomcompat:music/boss/the_leviathan",
+        "stream": true
+      }
+    ]
+  },
+  "music.ignis.combat": {
+    "sounds": [
+      {
+        "name": "cataclysmomcompat:music/boss/ignis",
+        "stream": true
+      }
+    ]
+  },
+  "music.maledictus.combat": {
+    "sounds": [
+      {
+        "name": "cataclysmomcompat:music/boss/maledictus",
+        "stream": true
+      }
+    ]
+  },
+  "music.netherite_monstrosity.combat": {
+    "sounds": [
+      {
+        "name": "cataclysmomcompat:music/boss/netherite_monstrosity",
+        "stream": true
+      }
+    ]
+  },
+  "music.scylla.combat": {
+    "sounds": [
+      {
+        "name": "cataclysmomcompat:music/boss/scylla",
+        "stream": true
+      }
+    ]
+  }
+}
